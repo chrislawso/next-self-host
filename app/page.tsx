@@ -20,9 +20,9 @@ export default async function Home() {
 
   return (
     <section>
-      <h1>Next.js Self Hosted Demo</h1>
+      <h1>Next.js Self Hosted Demo!</h1>
       <p>
-        This is a demo of a Next.js application hosted on Ubuntu Linux. It also
+        TThis is a demo of a Next.js application hosted on Ubuntu Linux. It also
         includes a Postgres database and an Nginx proxy.{' '}
         <a href="https://github.com/leerob/next-self-host">View the code</a>.
       </p>
